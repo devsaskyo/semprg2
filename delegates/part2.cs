@@ -1,15 +1,18 @@
 using System;
 
-class Program
+namespace Delegates
 {
-    static void Main()
+    class Program
     {
-        Action<string> DisplayMessage;
-        DisplayMessage = DisplayToConsole;
-        DisplayMessage("This is a message...");
-    }
-    public static void DisplayToConsole(string message)
-    {
-        Console.WriteLine(message);
+        static void Main()
+        {    
+            Action<string> DisplayMessage;
+            DisplayMessage = DisplayToConsole;
+            DisplayMessage("This is a message...");
+        }
+        public static void DisplayToConsole(string message)
+        {
+            Console.WriteLine(message);
+        }
     }
 }
