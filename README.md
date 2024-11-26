@@ -2,5 +2,5 @@
 
 ### Delegáty
 <b>Části:</b>
-<br>1. Vlastní delegát [[Zobrazit](/blob/main/delegates/part1.cs)]
+<br>1. Vlastní delegát [[Zobrazit](/delegates/part1.cs)]
 <br>
