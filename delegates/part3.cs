@@ -4,7 +4,7 @@ namespace Delegates
 {
     class Program
     {
-        static void Main()
+        public static void Main(string[] args)
         {
             Func<double, double, double> calculateRectangleArea = (width, height) => width * height;
             double width = 5.0;
