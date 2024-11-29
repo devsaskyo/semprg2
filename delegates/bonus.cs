@@ -8,7 +8,7 @@ namespace Delegates
         delegate void ActionWithString(string message);
         delegate bool PredicateWithInt(int number);
 
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             MathOperation addOperation = (a, b) => a + b;
             ActionWithString printResult = (message) => Console.WriteLine(message);
