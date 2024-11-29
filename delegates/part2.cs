@@ -4,7 +4,7 @@ namespace Delegates
 {
     class Program
     {
-        static void Main()
+        public static void Main(string[] args)
         {    
             Action<string> DisplayMessage;
             DisplayMessage = DisplayToConsole;
