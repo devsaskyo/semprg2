@@ -1,7 +1,7 @@
 # SemPrg2 2024/25
 
 ### Bankovní účet
-[[Zobrazit](/simplebank)] &nbsp; 1. Jednoduchá banka<br>
+[[Zobrazit](/simplebank/Program.cs)] &nbsp; 1. Jednoduchá banka<br>
 [[Zobrazit](/simplebank/challenges)] &nbsp; 2. Challenges<br>
 
 ### Delegáty
