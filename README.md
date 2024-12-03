@@ -10,9 +10,14 @@
 [[Zobrazit](/inheritance/Program.cs)] &nbsp; 1. Dědičnost<br>
 
 ### Přetypování
-[[Zadání](https://github.com/ShadowMoonlight-MS/Programovani/tree/main/Progr2/04_přetypování_as_is)]<br>
+[[Zadání](https://github.com/ShadowMoonlight-MS/Programovani/tree/main/Progr2/04_přetypování_as_is)] [[Zadání 2](https://github.com/ShadowMoonlight-MS/Programovani/tree/main/Progr2/05_boxing)]<br>
 [[Zobrazit](/typecasting/Program.cs)] &nbsp; 1. Přetypování<br>
 [[Zobrazit](/typecasting/boxing/Program.cs)] &nbsp; 2. Boxing<br>
+
+### LINQ
+[[Zadání](https://github.com/ShadowMoonlight-MS/Programovani/tree/main/Progr2/06_LINQ)]<br>
+[[Zobrazit](/linq/part1.cs)] &nbsp; 1. Výběr podle délky jména<br>
+[[Zobrazit](/linq/part2.cs)] &nbsp; 2. Získání průměrného věku<br>
 
 ### Delegáty
 [[Zadání]()]<br>
