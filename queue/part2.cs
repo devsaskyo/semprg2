@@ -20,11 +20,11 @@ namespace DoingQueueApparently
                     break;
                 }
 
-                if (input.StartsWith("vp"))
+                if (input.StartsWith("vp "))
                 {
                     highPriorityTasks.Enqueue(input.Substring(3));
                 }
-                else if (input.StartsWith("np"))
+                else if (input.StartsWith("np "))
                 {
                     lowPriorityTasks.Enqueue(input.Substring(3));
                 }
