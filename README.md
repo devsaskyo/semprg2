@@ -1,5 +1,5 @@
 # SemPrg2 2024/25
-![C-Sharp Logo](https://saskyo.dev/github-images/csharp-logo.png)
+<img src="https://saskyo.dev/github-images/csharp-logo.png" alt="C-Sharp Logo" width="400" />
 
 ### Bankovní účet
 [[Zadání](https://github.com/hakenr/Programiste.CSharp/tree/master/BankingOop)]<br>
