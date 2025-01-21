@@ -2,8 +2,6 @@ using System;
 
 namespace arraysIGuess
 {
-    using System;
-
     class Program
     {
         static void Main()
