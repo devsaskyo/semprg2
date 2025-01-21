@@ -42,3 +42,9 @@
 ### Dictionary
 [[Zadání](https://github.com/ShadowMoonlight-MS/Programovani/tree/main/Progr1/10_Dictionary)]<br>
 [[Zobrazit](/dictionary/bonus.cs)] &nbsp; 1. Sčítání frekvence slov<br>
+
+### Arrays
+[[Zadání](https://github.com/ShadowMoonlight-MS/Programovani/blob/main/Progr2/10_Adv_arrays)]<br>
+[[Zobrazit](/arrays/part1.cs)] &nbsp; 1. part 1<br>
+[[Zobrazit](/arrays/part2.cs)] &nbsp; 1. part 2<br>
+[[Zobrazit](/arrays/part3.cs)] &nbsp; 1. part 3<br>
