@@ -46,5 +46,10 @@
 ### Arrays
 [[Zadání](https://github.com/ShadowMoonlight-MS/Programovani/blob/main/Progr2/10_Adv_arrays)]<br>
 [[Zobrazit](/arrays/part1.cs)] &nbsp; 1. part 1<br>
-[[Zobrazit](/arrays/part2.cs)] &nbsp; 1. part 2<br>
-[[Zobrazit](/arrays/part3.cs)] &nbsp; 1. part 3<br>
+[[Zobrazit](/arrays/part2.cs)] &nbsp; 2. part 2<br>
+[[Zobrazit](/arrays/part3.cs)] &nbsp; 3. part 3<br>
+
+### Stack
+[[Zadání](https://github.com/ShadowMoonlight-MS/Programovani/blob/main/Progr2/11_Stack)]<br>
+[[Zobrazit](/stack/part1.cs)] &nbsp; 1. Reverze textu<br>
+[[Zobrazit](/stack/part2.cs)] &nbsp; 2. Kontrola závorek<br>
