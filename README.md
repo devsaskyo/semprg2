@@ -53,3 +53,8 @@
 [[Zadání](https://github.com/ShadowMoonlight-MS/Programovani/blob/main/Progr2/11_Stack)]<br>
 [[Zobrazit](/stack/part1.cs)] &nbsp; 1. Reverze textu<br>
 [[Zobrazit](/stack/part2.cs)] &nbsp; 2. Kontrola závorek<br>
+
+### Await
+[[Zadání](https://github.com/ShadowMoonlight-MS/Programovani/blob/main/Progr2/12_await)]<br>
+[[Zobrazit](/await/part1.cs)] &nbsp; 1. Asynchronní časovač<br>
+[[Zobrazit](/await/part2.cs)] &nbsp; 2. Více asynchronních callů<br>
